@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789634457820,
+  "timestamp": 1789634465911,
   "appVersion": "6.9.78 (2026.09.16)",
   "tables": [
     "characters",
@@ -104,7 +104,7 @@
     "healthEntries": 2,
     "tmStories": 2,
     "fontStore": 2,
-    "ttsAudio": 3
+    "ttsAudio": 4
   },
   "completedTables": {
     "characters": true,

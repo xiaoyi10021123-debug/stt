@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789635270467,
-  "appVersion": "6.9.78 (2026.09.16)",
+  "timestamp": 1789635286250,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -95,16 +95,15 @@
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 6,
-    "messages": 45,
+    "stickers": 2,
+    "messages": 27,
     "roleStickers": 4,
     "imageStore": 88,
     "stickerStore": 6,
     "thinkingStore": 2,
     "healthEntries": 2,
     "tmStories": 2,
-    "fontStore": 2,
-    "ttsAudio": 4
+    "fontStore": 2
   },
   "completedTables": {
     "characters": true,
@@ -132,6 +131,7 @@
     "groupSettings": true,
     "userLinks": true,
     "userMessages": true,
+    "ttsAudio": true,
     "forumData": true,
     "calendarData": true,
     "groupChats": true,
@@ -187,5 +187,6 @@
     "deliveryOrders": true,
     "deliveryData": true
   },
+  "source": "auto",
   "inProgress": true
 }
